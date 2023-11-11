@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\String_Task\String_Task\bin\Debug\net6.0\String_Task.exe
+C:\Users\User\source\repos\String_Task\String_Task\bin\Debug\net6.0\String_Task.deps.json
+C:\Users\User\source\repos\String_Task\String_Task\bin\Debug\net6.0\String_Task.runtimeconfig.json
+C:\Users\User\source\repos\String_Task\String_Task\bin\Debug\net6.0\String_Task.dll
+C:\Users\User\source\repos\String_Task\String_Task\bin\Debug\net6.0\String_Task.pdb
+C:\Users\User\source\repos\String_Task\String_Task\obj\Debug\net6.0\String_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\String_Task\String_Task\obj\Debug\net6.0\String_Task.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\String_Task\String_Task\obj\Debug\net6.0\String_Task.AssemblyInfo.cs
+C:\Users\User\source\repos\String_Task\String_Task\obj\Debug\net6.0\String_Task.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\String_Task\String_Task\obj\Debug\net6.0\String_Task.dll
+C:\Users\User\source\repos\String_Task\String_Task\obj\Debug\net6.0\refint\String_Task.dll
+C:\Users\User\source\repos\String_Task\String_Task\obj\Debug\net6.0\String_Task.pdb
+C:\Users\User\source\repos\String_Task\String_Task\obj\Debug\net6.0\String_Task.genruntimeconfig.cache
+C:\Users\User\source\repos\String_Task\String_Task\obj\Debug\net6.0\ref\String_Task.dll
